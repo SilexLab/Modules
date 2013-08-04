@@ -1,0 +1,23 @@
+<module>
+	<!-- Module's full name -->
+	<name>Example Module</name>
+
+	<!-- Module's author -->
+	<author>SilexLab</author>
+
+	<!-- License of this module -->
+	<license>GNU GPL 3</license>
+
+	<!-- Full text description -->
+	<description>
+		<![CDATA[
+			An Example module for Silex. It shows basic methods and functions of the module system.
+		]]>
+	</description>
+
+	<!-- Current version -->
+	<version>1.0</version>
+
+	<!-- Dependencies, if any -->
+	<depends/>
+</module>

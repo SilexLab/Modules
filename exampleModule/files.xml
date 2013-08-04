@@ -1,0 +1,9 @@
+<files>
+	<mainfile>
+		<path>files/org.silex.example.php</path>
+	</mainfile>
+	<file>
+		<src-path>files/src/lib/util/UExampleModule.class.php</src-path>
+		<target-dir>lib/util/</target-dir>
+	</file>
+</files>
